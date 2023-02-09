@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Route_for_cities", "Route_for_cities\Route_for_cities.csproj", "{ACF3A4DA-181A-4C8D-B457-713E44555DD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRoute_for_cities", "TestRoute_for_cities\TestRoute_for_cities.csproj", "{FAECC693-AC80-4671-84E2-DEDBB1B9381E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACF3A4DA-181A-4C8D-B457-713E44555DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF3A4DA-181A-4C8D-B457-713E44555DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF3A4DA-181A-4C8D-B457-713E44555DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF3A4DA-181A-4C8D-B457-713E44555DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAECC693-AC80-4671-84E2-DEDBB1B9381E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAECC693-AC80-4671-84E2-DEDBB1B9381E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAECC693-AC80-4671-84E2-DEDBB1B9381E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAECC693-AC80-4671-84E2-DEDBB1B9381E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {230B7DC6-3DD8-4C0C-AD86-BA7FD7EBA63F}
+	EndGlobalSection
+EndGlobal
